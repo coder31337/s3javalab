@@ -1,0 +1,8 @@
+Enter the length: 3
+Enter the breadth: 7
+Area of rectangle is 21.0
+Enter the base length: 5
+Enter the height: 6
+Area of triangle is 15.0
+Enter the radius: 4.1
+Area of circle is 52.7834

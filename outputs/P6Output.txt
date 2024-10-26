@@ -1,0 +1,3 @@
+Enter the number of elements: 5
+Enter the 5 elements: 4 9 5 2 8
+Second smallest element is 4

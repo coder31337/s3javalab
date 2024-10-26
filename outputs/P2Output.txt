@@ -1,0 +1,7 @@
+Enter a string: time
+Entered string is not a palindrome
+
+...
+
+Enter a string: tenet
+Entered string is a palindrome

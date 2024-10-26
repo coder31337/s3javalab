@@ -1,0 +1,3 @@
+Character count = 21
+Word count = 6
+Line count = 3

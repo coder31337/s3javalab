@@ -1,0 +1,9 @@
+Enter a divident: 18
+Enter a divisor: 2
+Quotient is 9
+
+...
+
+Enter a divident: 8
+Enter a divisor: 0
+Cannot divide by zero

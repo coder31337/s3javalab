@@ -1,0 +1,12 @@
+Enter the number of names: 4
+Enter the names:
+Mary
+Bob
+Jim
+Ana
+
+After quick sort
+Ana
+Bob
+Jim
+Mary

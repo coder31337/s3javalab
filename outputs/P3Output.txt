@@ -1,0 +1,21 @@
+Matrix 1
+Enter number of rows: 2
+Enter number of columns: 2
+Enter the values:
+1
+2
+3
+4
+
+Matrix 2
+Enter number of rows: 2
+Enter number of columns: 2
+Enter the values:
+4
+3
+2
+1
+
+Product matrix is
+8       5
+20      13

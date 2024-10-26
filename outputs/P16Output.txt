@@ -1,0 +1,14 @@
+Random number is 8
+Square is 64
+
+Random number is 35
+Cube is 42875
+
+Random number is 47
+Cube is 103823
+
+Random number is 21
+Cube is 9261
+
+Random number is 74
+Square is 5476

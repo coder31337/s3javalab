@@ -1,0 +1,68 @@
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 1
+List is empty
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 2
+Enter the value: 48
+48 inserted to list
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 2
+Enter the value: 90
+90 inserted to list
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 2
+Enter the value: 14
+14 inserted to list
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 1
+Displaying list...
+48 90 14 
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 3
+48 deleted from list
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 1
+Displaying list...
+90 14 
+
+Doubly Linked List Operations
+[1] Display
+[2] Insert
+[3] Delete
+[4] Exit
+Enter a choice: 4
+Exiting...

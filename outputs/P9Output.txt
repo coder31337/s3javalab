@@ -1,0 +1,15 @@
+OFFICER DETAILS
+Name: Jim
+Age: 32
+Phone number: +918745363267
+Address: 133 Street, Left Lane, One City
+Specialization: Marketing
+Salary is 68500
+
+MANAGER DETAILS
+Name: Bob
+Age: 46
+Phone number: +917345328676
+Address: Apt 214, Side Street, Spring Lake
+Department: Sales
+Salary is 77800

@@ -1,0 +1,7 @@
+Enter a number: 24
+Entered number is not a prime
+
+...
+
+Enter a number: 23
+Entered number is a prime

@@ -1,0 +1,11 @@
+Enter the number of elements: 4
+Enter the sorted elements: 4 13 26 96
+Enter the element to search: 26
+Element found at index 2
+
+...
+
+Enter the number of elements: 4
+Enter the sorted elements: 6 8 9 31
+Enter the element to search: 1
+Element not found
